@@ -12,7 +12,7 @@ function Contact() {
     {
       imgSrc: contactUrls[0],
       linkSrc: "mailto:hharsh0407@gmail.com",
-      displayText: "varunyadav191101@gmail.com"
+      displayText: "Gmail"
     },
     {
       imgSrc: contactUrls[1],
