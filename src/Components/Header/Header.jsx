@@ -56,13 +56,13 @@ function Header() {
         </Link>
         <Link
           smooth
-          to="#view_imports"
+          to="#view imports"
           scroll={(el) =>
             el.scrollIntoView({ behavior: "smooth", block: "start" })
           }
           onClick={toggleDisplay}
         >
-          view_imports
+          view imports
         </Link>
         <Link
           smooth
