@@ -11,7 +11,7 @@ function Contact() {
   const contact = [
     {
       imgSrc: contactUrls[0],
-      linkSrc: "mailto:hharsh0407@gmail.com",
+      linkSrc: "hharsh0407@gmail.com",
       displayText: "Gmail"
     },
     {

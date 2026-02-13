@@ -19,7 +19,7 @@ function Header() {
           }
           onClick={toggleDisplay}
         >
-          certificate generator
+          certificate generator builder
         </Link>
       </div>
 
@@ -32,7 +32,7 @@ function Header() {
           }
           onClick={toggleDisplay}
         >
-          about
+          Home Page
         </Link>
         <Link
           smooth
@@ -42,7 +42,7 @@ function Header() {
           }
           onClick={toggleDisplay}
         >
-          templates
+          Upload Template
         </Link>
         <Link
           smooth
@@ -52,7 +52,7 @@ function Header() {
           }
           onClick={toggleDisplay}
         >
-          upload
+          Upload CSV
         </Link>
         <Link
           smooth
@@ -62,7 +62,7 @@ function Header() {
           }
           onClick={toggleDisplay}
         >
-          view imports
+          Preview Page
         </Link>
         <Link
           smooth
@@ -72,7 +72,7 @@ function Header() {
           }
           onClick={toggleDisplay}
         >
-          download
+          Download
         </Link>
       </div>
       <div className={styles.expandBar} onClick={toggleDisplay}>
