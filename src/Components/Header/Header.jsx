@@ -72,7 +72,7 @@ function Header() {
           }
           onClick={toggleDisplay}
         >
-          Download
+          Download Certificates
         </Link>
       </div>
       <div className={styles.expandBar} onClick={toggleDisplay}>
